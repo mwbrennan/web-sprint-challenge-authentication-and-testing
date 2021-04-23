@@ -17,11 +17,14 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "helmet": "^4.4.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^3.1.2",
     "knex": "^0.95.4",
     "sqlite3": "^5.0.2"
   },
   "devDependencies": {
     "@types/jest": "^26.0.22",
+    "bcrypt": "^5.0.1",
     "cross-env": "^7.0.3",
     "eslint": "^7.23.0",
     "jest": "^26.6.3",
